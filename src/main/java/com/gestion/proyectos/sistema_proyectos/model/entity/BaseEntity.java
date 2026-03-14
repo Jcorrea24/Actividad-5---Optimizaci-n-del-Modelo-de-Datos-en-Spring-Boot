@@ -1,4 +1,4 @@
-package com.gestion.proyectos.sistema_proyectos.entity;
+package com.gestion.proyectos.sistema_proyectos.model.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
